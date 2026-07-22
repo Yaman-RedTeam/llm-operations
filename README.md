@@ -36,6 +36,8 @@ Two minimal chat-interface setups for running an LLM as a security-research assi
 
 ## 🚀 Setup
 
+> 📘 New here? See the full walkthrough in [GUIDE.md](./GUIDE.md).
+
 ### Local LLM Setup (dolphin-web)
 
 ```bash
